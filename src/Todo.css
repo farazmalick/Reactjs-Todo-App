@@ -1,0 +1,11 @@
+.Todo {
+
+    list-style: square;
+    margin-right: 10px;
+
+
+}
+
+.completed {
+    text-decoration: line-through;
+}
